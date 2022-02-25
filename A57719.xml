@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rouse his case truly stated and written with his own hand in Newgate, two days before his execution, to prevent any false reports : wherein he gives the world an account of the place and manner how he was taken ... of his defence for himself, how he was brought in guilty, sentence past : with a declaration against things charged upon him, and a confession of his faith, with his prayer for the church of God &amp;c. : to which is annexed a letter to his wife from Newgate.</title>
+            <author>Rouse, John, d. 1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57719</idno>
+            <idno type="STC">Wing R2047</idno>
+            <idno type="STC">ESTC R25105</idno>
+            <idno type="EEBO-CITATION">08761975</idno>
+            <idno type="OCLC">ocm 08761975</idno>
+            <idno type="VID">41750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57719)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41750)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1268:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rouse his case truly stated and written with his own hand in Newgate, two days before his execution, to prevent any false reports : wherein he gives the world an account of the place and manner how he was taken ... of his defence for himself, how he was brought in guilty, sentence past : with a declaration against things charged upon him, and a confession of his faith, with his prayer for the church of God &amp;c. : to which is annexed a letter to his wife from Newgate.</title>
+                  <author>Rouse, John, d. 1683.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Grantham by the order of the Widdow Rouse,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J. Rouse.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rye House Plot, 1683.</term>
+               <term>Treason --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41750:1"/>
+            <pb facs="tcp:41750:1" rendition="simple:additions"/>
+            <p>ROUSE HIS CASE, Truly Stated and Written with his own Hand in <hi>NEWGATE,</hi> Two Days before his EXECUTION, to prevent any falſe Reports.</p>
+            <p>Wherein he gives the World an Account</p>
+            <p>Of
+<list>
+                  <item>Of the Place and Manner how he was Taken.</item>
+                  <item>His being before the King and Council two or three times.</item>
+                  <item>The manner of his Commitment, where, and for what.</item>
+                  <item>His Removal to <hi>Newgate.</hi>
+                  </item>
+                  <item>His Arraignment with Captain <hi>Blage.</hi>
+                  </item>
+                  <item>His Tryal apart from Captain <hi>Blage.</hi>
+                  </item>
+                  <item>The Witneſſes, and What difference between the In<g ref="char:EOLhyphen"/>dictment and what the Witneſſes then Swore.</item>
+                  <item>His Defence for himſelf, how he was brought in Guilty.</item>
+               </list>
+            </p>
+            <p>Sentence paſt. With a Declaration againſt things charged upon him; and a Confeſſion of his Faith, with his Prayer for the Church of God, <hi>&amp;c.</hi>
+            </p>
+            <p>To which is annexed, a LETTER to his Wife, from <hi>Newgate.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Grantham,</hi> by the Order of the Widdow <hi>Rouſe.</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:41750:2"/>
+            <pb n="1" facs="tcp:41750:2"/>
+            <head>ROUSE HIS CASE, Truly Stated and Written with his own Hand in <hi>New<g ref="char:EOLhyphen"/>gate,</hi> Two days before his Execution, to prevent any falſe Reports, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>WEdneſday, July</hi> 4. 83. Towards Evening I went into <hi>Barbican</hi> to ſpeak with a Friend, I went into a <hi>Coffee-houſe,</hi> drank a <hi>Mugg</hi> of <hi>Ale,</hi> of a ſuddain I heard a noiſe of Swordmen that were coming to ſearch the ſaid Houſe for a perſon called <hi>Armiger;</hi> I being alone in a low. Room, walked into the Garden until ſuch time as the hurry ſhould be over; while I was in the Garden, out comes one Man, then another, ſeeing me, asked if my Name was not <hi>Armiger?</hi> I replyed and ſaid, no. What is your Name then ſaid one of the perſons? Now I was altogether ignorant of what they meant,
+<note place="margin">Note, that they had no Warrant a<g ref="char:EOLhyphen"/>gainſt me.</note> or that they had any Warrant from <hi>White-hall</hi> to impower one or both as a Meſſenger or Meſſengers, and therefore made this Anſwer, <hi>John-Son,</hi> being the Son of <hi>John.</hi>
+               <note place="margin">
+                  <hi>Note, That if I had been guilty of any Plot, I ſhould not have been upon the</hi> Ex<g ref="char:EOLhyphen"/>change <hi>to the laſt, and a<g ref="char:EOLhyphen"/>bout my own buſineſs every day.</hi>
+               </note> But one of them, called <hi>William Richardſon,</hi> being a Meſſenger, having a General Warrant to queſtion and take up all that he ſuſpected, demanded the place of my aboad, to ſee whether I were ſuch a perſon: Thereupon I made an Apollogy for my ſelf, and told them my Name was <hi>Rouſe;</hi> Thereupon a Porter was ſent to my Houſe, and about the Neighborhood, to ſatisfie themſelves that
+<pb n="2" facs="tcp:41750:3"/>ſuch a one lived there; that would not ſatisfie, but they would have ſome known perſon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereabout to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngage for me; whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon I <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt, and ſome where not a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> home, others were ſhy of Appearing, and when they ſaw that, nothing muſt ſerve, but they charged a Conſtable with me, took Coach and carried me to the <hi>Fleet</hi> for ſecurity, the Secre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ry of the ſame being an aſſiſtant to the ſaid Meſſenge. This was about Ten or Eleven at Night<g ref="char:punc">▪</g>
+            </p>
+            <p>Next <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orning I was carried <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>White-hall,</hi>
+               <note place="margin">
+                  <hi>Thurſday,</hi> 5. <hi>day.</hi>
+               </note> after a lit<g ref="char:EOLhyphen"/>tle while I was called into the Secretary's Chamber, where were preſent, the King, the Duke of <hi>York,</hi> Lord Keeper <hi>North,</hi> Lord <hi>Hallifax,</hi> Lord <hi>Sunderland,</hi> Secreta<g ref="char:EOLhyphen"/>ry, Secretary <hi>Jenkins;</hi> Lord Keeper acquainted me that there was an Information brought againſt me of Trea<g ref="char:EOLhyphen"/>ſon, and inſtanced in ſeveral particulars. However, if I would be ingenuous, and confeſs the perſons concerned, or knew of any thing againſt His Majeſty, I ſhould find favour. Thereupon I deſired to be excuſed from an<g ref="char:EOLhyphen"/>ſwering then, (to prevent any miſtakes, ſeeing ſo many at the Table with each Man his Pen ready to write down whatever was ſpoken) but promiſed to put into writing what I knew of any deſign againſt His Majeſty, or the Peace of His Kingdom; which when they heard, the Duke of <hi>York</hi> urged with divers Arguments to ſpeak what I had to ſay immediately; but I ſtill inſiſted upon Writing my Mind: Thereupon His Majeſty propoſed, and it was agreed on, that I ſhould take Four or Five hours, and be alone, to do what was neceſſary, and the Meſſenger was ordered to carry me to the <hi>Plantation-Office</hi> near <hi>Scotland Yard,</hi> where a Guard was ſet till I had finiſhed. About Four in the Afternoon I went with my Paper, and one of the Clerks of the Council was ordred to receive it, who calling for it, carried it in, and I was ordered to tarry a while; mean time Mr. <hi>Thomas Lee</hi> a Dyer was called in, who was the perſon that Informed againſt me, and who himſelf was Sworn
+<pb n="3" facs="tcp:41750:3"/>againſt by two others, <hi>viz. How of Old-ſtreet,</hi> and <hi>Keel<g ref="char:EOLhyphen"/>ing</hi> of <hi>Eaſt-Smithfield:</hi> when he came out, I was called in and the Lord Keeper told me, I had not been free and ingenuous, but did keep back what was material, having received further Information againſt me; upon which I told them, that I had done what poſſible could be done within that ſpace of time allotted, and promi<g ref="char:EOLhyphen"/>ſed whatever ſhould accrue to my memory I would faith<g ref="char:EOLhyphen"/>fully diſcover, and not falſly accuſe either Friend or Foe: Then I was ordered to withdraw, and ordered to appear next day by Eight in the Morning; then I return'd to the <hi>Fleet</hi> again. And</p>
+            <p>I was carried up again, tarried all the Forenoon,
+<note place="margin">
+                  <hi>Fryday,</hi> 6. <hi>day.</hi>
+               </note> not called in, but adjourned till Four the ſame day; at Four a Clock, having Dined at <hi>Temple-Barr,</hi> went up again, and was adjourned till Four a Clock next day; ſo went to the <hi>Fleet</hi> again.</p>
+            <p>Early in the Morning I ſent to His Majeſty to ſpeak with him alone;
+<note place="margin">
+                  <hi>Saturday,</hi> 7. <hi>day.</hi>
+               </note> for which purpoſe a Gentleman went and acquainted His Majeſty, who was in the <hi>Park,</hi> and or<g ref="char:EOLhyphen"/>dered me to come to him; when I came, I found His Majeſty at one end, and the Two Secritaries of State at the other end of the Room, His Majeſty called me to him, with whom I had private conference about a quar<g ref="char:EOLhyphen"/>ter of an hour and more, in which time I ſatisfied His Majeſty how far <hi>Thomas Lee</hi> had been ingaged in Words and Actions againſt His Majeſty; His Majeſty ſeemed very well pleaſed, and commanded me to put it in Writing, and bring it to him again; ſo I went away with the Meſſenger and followed His Majeſties com<g ref="char:EOLhyphen"/>mand, drew up a rough draft, returned to <hi>White hall</hi> at the time appointed, ſent into the Secretary that I were come, but inſtead of being called in, the Council went away, and the Secretary gave a Warrant to the Meſſen<g ref="char:EOLhyphen"/>ger for my Commitment to the <hi>Marſhalſey,</hi> for High-Treaſon,
+<pb n="4" facs="tcp:41750:4"/>in Compaſſing the death of His Majeſty, and Levying of Arms.</p>
+            <p>About Seven or Eight at Night I was ſent away by Water with a File of Soldiers to the <hi>Marſhalſey,</hi> where I were committed cloſe Priſoner, next day put in Chains, and could not have the liberty of any one to acquaint my Wife where I was, though I begged as for an Alms, and told the Marſhal how my Wife was big and near her time.</p>
+            <p>A Meſſenger came from the Attorney General to ac<g ref="char:EOLhyphen"/>quaint me how I muſt prepare againſt <hi>Wedneſday</hi> for a Tryal;
+<note place="margin">
+                  <hi>Monday,</hi> 9. <hi>day.</hi>
+               </note> thereupon I writ Mr. Attorney a Letter, wherein I acquainted him with what had paſt between His Maje<g ref="char:EOLhyphen"/>ſty and my ſelf, and how I was ſurprized, alſo how hard it was, what diſadvantages I lay under to prepare for a Tryal; for notwithſtanding this notice, I was not al<g ref="char:EOLhyphen"/>lowed any body to come to me, nor the uſe of Pen, Ink or Paper.</p>
+            <p>The Marſhal received an order to bring me to <hi>White<g ref="char:EOLhyphen"/>hall,</hi>
+               <note place="margin">
+                  <hi>Tuſeday,</hi> 10.</note> where we went, tarried ſome Hours, and ordered to appear next Morning.</p>
+            <p>Inſtead of going to <hi>White-hall,</hi>
+               <note place="margin">
+                  <hi>Wedneſday,</hi> 11.</note> an <hi>Habias Corpus</hi> was ſent to carry me to <hi>Newgate.</hi> About Nine in the Fore<g ref="char:EOLhyphen"/>noon I was carried to <hi>Newgate,</hi> where my Wife came to me and tarried about half an hour, but could get no other Friend till Nine at Night, nor Council to adviſe withal without Order of Court.</p>
+            <p>Captain <hi>Richardſon</hi> carried me to the <hi>Old-Baley,</hi>
+               <note place="margin">
+                  <hi>Thurſday,</hi> 12.</note> and being there, I found that Captain <hi>Blage</hi> and my ſelf were put in one Indictment, which was read, to which we pleaded <hi>Not Guilty.</hi> Then we withdrew; the Bill given to the Grand Inqueſt, who found it againſt us both; afterwards being called again, to hold up our Hands, we Pleaded as before: Being asked by whom we would be Tryed, we anſwered, By God and our Countrey.</p>
+            <pb n="5" facs="tcp:41750:4"/>
+            <p>
+               <hi>Fryday</hi> 13. We were called again, and required to take our Tryal, Captain <hi>Blage</hi> asked, whether we muſt Anſwer, ſeverally or jointly, Sir <hi>George Jefferies</hi> ſaid, we might An<g ref="char:EOLhyphen"/>ſwer ſeverally, then the Captain Begged Liberty to Anſwer for himſelf, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Court Ordered me to take mine firſt, but before I took my Tryal, I prayed the Court for more time, becauſe of the diſadvantages that I had been under, however the Court would not admit of it, but ſaid, I muſt do it now, to which I ſubmitted, having no Copy of the Indict<g ref="char:EOLhyphen"/>ment, no Councel nor other to adviſe withal, the Indictment read, and Witneſs called in to prove it, which was, <hi>viz. Thomas Lea</hi> Dyer, <hi>William Leigh,</hi> Captain <hi>Blage</hi>'s Mate, <hi>Tho<g ref="char:EOLhyphen"/>mas Corbin</hi> alſo brought, not as a Material Witneſs in this matter, as Sir <hi>George Jefferies</hi> declared, but to declare words that I ſhould ſpeak in 81, whoſe Evidence could not be al<g ref="char:EOLhyphen"/>lowed then, becauſe Juſtice could not be had, and at ſuch a time, when the Judge was in fear of his Life, as he ſate upon the Bench. Moreover, Sir <hi>George Jefferies</hi> ſaid, how that I were to be Pay-maſter, under a great now dead to a Rabble, the fourth Witneſs was <hi>Richardſon,</hi> the Meſſenger to Witneſs where he took me, and how I ſpoke of <hi>Johnſon.</hi>
+            </p>
+            <p>The Witneſſes being Sworn, the Indictment was read, how that I ſhould be Guilty as before, and particularly that on the ſecond of <hi>March</hi> laſt, I was with divers others at ſuch a place, where Captain <hi>William Blage,</hi> and had many Armes, as Blunderbuſſes <hi>&amp;c.</hi> and contrived as before, <hi>Lea</hi> Swears not a Word of this, but that on the laſt of <hi>June,</hi> we were at the <hi>Kings-head</hi> in <hi>Sweetings</hi> Alley <hi>London,</hi> that we contrived taking the <hi>Tower,</hi> of the City of <hi>London, White<g ref="char:EOLhyphen"/>hall,</hi> St. <hi>James</hi>'s, that Captain <hi>william Blage,</hi> his Mate, and o<g ref="char:EOLhyphen"/>ther Sea-men were Ingaged in taking the <hi>Tower,</hi> how that a Golden Ball was to be thrown up upon <hi>Black-heath,</hi> for to Gather Sea-men together at the drinking of a Bowl of Punch, that the Aldermen were to be Kill'd, His Majeſty and Duke of <hi>York</hi> ſecured, but ſaid, the truth was Mr. <hi>Rouſe</hi> was not for Shedding of Blood; much leſs Kill<g ref="char:EOLhyphen"/>ing of the KING and his Highneſs the DUKE of <hi>York,</hi> that <hi>Goodenough,</hi> and I Diſcourſed about it, and that Mr.
+<pb n="6" facs="tcp:41750:5"/>
+               <hi>Goodenough</hi> did give him thanks for his Acquaintance with me, that it was contrived, His Majeſty was to be ſeized as he came from <hi>Windſor,</hi> that Armes were to be ſent down in Trunks, that all was to be done before Mid Summer, being asked, who began any Diſcourſe of this Nature, whe<g ref="char:EOLhyphen"/>ther he or I firſt, indeed that he could not well remember, the price of the Ball was valued by me at 10 <hi>s.</hi>telling of <hi>R. Goodenough</hi> of it, he ſhould ſay, no matter if it coſt 40 <hi>s.</hi> we will have it, farther he ſwears, that I ſhould ſay that the King had Sworn in <hi>Spain è France,</hi> to eſtabliſh Po<g ref="char:EOLhyphen"/>pery in <hi>England,</hi> and for not performing his Oath the Pa<g ref="char:EOLhyphen"/>piſts were angry with him; upon all which, Sir <hi>George Jefferies</hi> animadverted, and aggrivated as much as poſſi<g ref="char:EOLhyphen"/>ble.</p>
+            <p n="2">2. Witneſs, was <hi>William Leigh,</hi> who was Informed againſt by <hi>Lea,</hi> as a Confederate with <hi>William Blage,</hi> in contriving how to take the <hi>Tower,</hi> this Witneſs now was brought, that they might have full Evidence to Swear againſt me, he threw that upon me, which he was inſtigated and promp<g ref="char:EOLhyphen"/>ted too by <hi>Lea.</hi>
+            </p>
+            <p n="3">3. Witneſs, <hi>Corbin,</hi> who Swore that I ſhould ſay in 81. that His Majeſty had forfeited his Crown, that he had no more, but what a Parliament could give or take away when they pleaſed.</p>
+            <p n="4">4. Witneſs, <hi>Richardſon</hi> ſo prov'd the word <hi>Johnſon,</hi> where<g ref="char:EOLhyphen"/>upon, Sir <hi>George Jefferies</hi> took occaſion to ſignifie, what Spi<g ref="char:EOLhyphen"/>rit the Priſoner was of always againſt the King, that I had as many names as deſigns.</p>
+            <p>To all which I replied, <hi>viz.</hi> firſt, as to <hi>Lea,</hi> how he was but of late acquaintance, being as I well remember about <hi>May,</hi> ſo that of the ſecond of <hi>March,</hi> muſt fall to ground, that when he entred into a Diſcourſe with me once, and a<g ref="char:EOLhyphen"/>gain it was about a Forraign Invaſion, to oppoſe which I diſcovered my tenderneſs again and again, that what was diſcourſed about the <hi>Tower</hi> and <hi>Sea-men,</hi> the Captain and o<g ref="char:EOLhyphen"/>thers, was by and from himſelf, as I find he diſcourſed with
+<pb n="7" facs="tcp:41750:5"/>Mr. <hi>Hone,</hi> and Mr. <hi>Keeling</hi> formerly, that another, I, nor Captain <hi>Blage</hi> did look on it for a great while, but Roman<g ref="char:EOLhyphen"/>tick Diſcourſe; that it was never in my heart in the leaſt to appear againſt His Majeſty, or do any thing againſt the Peace of his Government.</p>
+            <p>That <hi>Lea</hi> had been an Induſtrious drudge, to carry on a Deſign, and to ſee how it would take, that it was his cun<g ref="char:EOLhyphen"/>ning to ſpeak with but one very rarely at a time, ſave Captain <hi>William Blage,</hi> and his Mate was preſent and no o<g ref="char:EOLhyphen"/>ther, that there was never a word, that ever paſt about any ſuch things between <hi>Goodenough</hi> and I, that I never ſaw him but twice after ſuch Diſcourſe aroſe, and one of the times he asked me if I knew Captain <hi>Blage,</hi> that he ſaw he was a ſtout Fellow and hoped he was honeſt, I told him I knew no other and no more, but the Diſcourſe fell to the Ground that I never knew of any meeting with Captain <hi>Blage,</hi> that we were never together with him, that whatever it was, I found <hi>Lea</hi> carried it on upon a Deſign to raiſe himſelf in the World.</p>
+            <p>That I never ſpoke what <hi>Corbin</hi> ſwore too ſingly and barely, but as that may be hereafter, that the Mate was under a ſurprize as to ſome things, but that I asked him if he were acquainted with honeſt <hi>Hone.</hi> I deny not, but not upon any account of a Deſign againſt His Majeſty. That when I ſaid <hi>Johnſon,</hi> I had no knowledge of the Perſons or there asking my name, nor that was a denying of my name, being ask<g ref="char:EOLhyphen"/>ed for Witneſſes, let the World Judge in what capacity I were to produce any, and for what, that what civillity I ſhewed <hi>Lea,</hi> was no manner of Argument that I deſigned In<g ref="char:EOLhyphen"/>jury to my King, that I was often afraid of his going a<g ref="char:EOLhyphen"/>way, or that he would be under a Temptation, to do by me, as he oft threatned to do by <hi>Keeling,</hi> and <hi>Harry</hi> very often told me, that he was never in that Rogues Company but once in four Months, that he had been at <hi>Eaſt-Smithfield</hi> on purpoſe to Kill that Dog.</p>
+            <p>That <hi>Lea</hi> being taken up, and being concious to himſelf, what he had ſaid, was Guilty of, and how he was in with
+<pb n="8" facs="tcp:41750:6"/>
+               <hi>Nelthrop</hi> &amp;c. who Obſconded that I had heard him, ſpeak very unworthily of, and againſt the Duke of <hi>York,</hi> that he was privy to ſome Wicked Deſign or other, now for fear I ſhould appear againſt him, the Devil put him upon Swear<g ref="char:EOLhyphen"/>ing that againſt me, whereof he knows in his own Conſci<g ref="char:EOLhyphen"/>ence he was the Sole Author, but God forgive him, and grant my Blood may not be laid to his Charge, then I withdrew, and the Jury brought me in Guilty of High Trea<g ref="char:EOLhyphen"/>ſon, againſt whom I have nothing to ſay, they are to give Account at a Greater Bar, if Guilty of any Error, and be<g ref="char:EOLhyphen"/>ſides, I ever had a great Veneration for that Conſtitution, however, ſome Euthorigant Licentious Perſons take Liberty to beſpatter that Kind of Order.</p>
+            <p>Next Captain <hi>Blage</hi> was called, and but one Witneſs againſt him, he was acquitted.</p>
+            <p>
+               <hi>Saturday</hi> the Fourteenth, Captain <hi>Thomas Walcot,</hi> a Man I never knew, <hi>William Hone</hi> and I were called to the Bar, where each of us read our Sentence of Death, not to ſpeak of the Defence I made them, for it was over-ruled, now af<g ref="char:EOLhyphen"/>ter all that has been ſaid <hi>Pro</hi> and <hi>Con,</hi> It concerns me as a Man, an Engliſh-man and Chriſtian, for the ſatisfaction of all Perſons to whom this Story ſhall come, having a clear Con<g ref="char:EOLhyphen"/>ſcience, as to any Deſign againſt the King or Government, ſave that I heard ſuch diſcourſe, that I could not heartily acquies in.</p>
+            <p>I do declare ſolemnly, in the Words of a dying Man, being under the Sentence of Death, and as I know to whom I muſt give Account for the ſame.</p>
+            <p>That I ever declared againſt King Killing Principles and Practices, but rather looked on it as my duty, and made it my Practice to Pray for him, as often as I Prayed for dayly bread or for my own Soul.</p>
+            <pb n="9" facs="tcp:41750:6"/>
+            <p>That I never knew none of the Perſons in the Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clamati<g ref="char:EOLhyphen"/>on, until the firſt Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clamation after, Collon<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Flemſey</hi> See. That I was never to be a Pay-maſter to any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>abble under agreement to the Lord now dead, and Sir <hi>George Jeſſerres</hi> ſaid, I were but only a Pay maſter in <hi>Flanders</hi> 78. for <hi>Lea</hi> muſt needs know, and then he could ſay, that they were all con<g ref="char:EOLhyphen"/>cerned, and many go up and down <hi>England,</hi> if ſo the more Wicked Wretch he to Conceal it ſo long, and for being ſo ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otwithſtanding all my ſiftings of him to know, but as I <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id he had a Wicked Deſign to carry on, and ſo he might eſcape at laſt, he did not care againſt whom he ſwore, for there are more beſides my ſelf.</p>
+            <p>That I never knew of any Armes, as Blunderbuſſes, &amp;c. provided or to be provided, That I never ſpoke to any Se<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>men, about carrying on a Deſign, ſave a kind of diſcourſe, which <hi>Lea</hi> fomented and promoted in the preſence of Cap<g ref="char:EOLhyphen"/>tain <hi>William Blage,</hi> and his Mate, with whom I was as an old acquaintance, acquainted for many Years, and whom I knew to be Faithful to his Prince, whom he had ſerved for many years at Sea, with his life, whom I aſſiſted for his diſ<g ref="char:EOLhyphen"/>patch to <hi>New-York,</hi> and knew his reſolution, and bent lay that way, for which place he bought a Ship, and was making all manner of haſt to be gone.</p>
+            <p>That I never knew of any deſign againſt the City, or much leſs Killing the Aldermen, that I never knew of At<g ref="char:EOLhyphen"/>taching His Majeſty (whom God preſerve) as he ſhould come from <hi>Windſor</hi> or any place elſe, that I never heard one word from <hi>Richard Gondenough,</hi> of acting any ſuch thing or any o<g ref="char:EOLhyphen"/>ther, that I had been acquainted with <hi>Richard Goodenough</hi> ma<g ref="char:EOLhyphen"/>ny Years, as an Attorney and no otherwiſe, and therefore it was unlikely that he ſhould give <hi>Iea</hi> thanks for bringing him to his acquaintance, that theſe were none of my words, I never did or could ſay, that His Majeſty had taken an Oa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h in <hi>Spain <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> France</hi> to do ſo and ſo, and that I ſhould have it under the Kings hand, I utterly deny it, but I remember I heard a profligate Villain ſpeak ſomewhat to that purpoſe, this was ſome Years paſt, and I might ſpeak what a Villain
+<pb n="10" facs="tcp:41750:7"/>that was he that ſpoke after that rate, that what was ſpoke by the Mate, and about his Anſwer, obſerving with himſelf the ſlightneſs of many places about the <hi>Tower,</hi> which made him ſay any Man might take it with Four or Five Hundred Men, if they had ſuch a mind, and Proviſion accordingly, that it was only for diſcourſe ſake, without any premeditated De<g ref="char:EOLhyphen"/>ſign.</p>
+            <p>That what <hi>Corbin</hi> ſaid about the Crown, was enquired in<g ref="char:EOLhyphen"/>to <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> France</hi> by a former Jury not to hold water, that when one of the Company <hi>Wyat,</hi> was ſpeaking of the Power of the Power of Popes over Kings, &amp;c. I replyed again, that if that were ſo, that the Pope could depoſe Kings at pleaſure, and diſpoſe there Crowns to others, (which I oppoſed and denied) that then he might give it to me or any other, and by that Doctrine, I might or any other there Challenge it, ſo that <hi>Corbin</hi> dealt by me as a Jeſuited Evidence, who hear<g ref="char:EOLhyphen"/>ing a Miniſter Preach upon that, in Pſalm the Fourteenth verſe the firſt, <hi>the Fool hath ſaid in his Heart, there is no God;</hi> he goes and ſwears that the Man ſpake Blaſphemy, ſaying, there is no God, leaving out the former Words, which being joyned are honeſt and good, and if <hi>Corbin</hi> had been ſo honeſt, as to ſpeak all what I ſaid, my words could no more have been Treaſon and Diſloyal; then the Miniſters words Blaſphe<g ref="char:EOLhyphen"/>mous, but I am bound to pray God to forgive my Enemies, not only ſeven but ſeventy times ſeven, and God forgive them all (tho never ſo Implacable) as I am taught to pray that God would forgive me my Treſpaſſes.</p>
+            <p>That I declare my Abhorrence of ſuch Deſigns and Practiſes, as have brought an <hi>Odium</hi> upon the Proteſtant Religion, let Men pretend to what they will, I am ſure they could be none that either Fear God, or Honor the King; if any blame me for knowing any thing of it, and did not immediatly diſcover it, I muſt Anſwer, that my Deſign was good, and I were loath to carry a piece, or a broken Story, as I told His Majeſty, or elſe he had heard it ſooner, and that <hi>Lea</hi> was well adviſed of, and my diſcharging him from my Houſe, gave no ſmall Jea<g ref="char:EOLhyphen"/>louſie among other things. This being the Summ and Subſtance what I have to ſay, I now conclude, in owning my ſelf (what<g ref="char:EOLhyphen"/>ever
+<pb n="11" facs="tcp:41750:7"/>others ſay or think) to dye in the belief of the Doctrin, of that part of Chriſts Church planted in <hi>England,</hi> being agree<g ref="char:EOLhyphen"/>able to the Doctrine of the Prophets and Apoſtles, Chriſt Jeſus being the Chief Corner Stone, praying God to haſten the cal<g ref="char:EOLhyphen"/>ling of the <hi>Jews,</hi> To bring in the <hi>Gentiles,</hi> deſtroy <hi>Babylon,</hi> build up <hi>Sion,</hi> preſerve Great Brittain, eſpecially His Majeſtles Perſon and Government, that Peace with Truth may Flouriſh, Bleſs and provide for my dear Yoak-Fellow and little ones, with all my Relations; preſerve <hi>London</hi> and <hi>Weſtminſter,</hi> order and over-rule all publick and private Tranſactions, to his Glo<g ref="char:EOLhyphen"/>ry, and haſten his coming the ſecond time.</p>
+            <p>Laſtly, I Commit my Body to the Care of my Friends by His Majeſties leave, for a decent Burial, Believing a Reſurre<g ref="char:EOLhyphen"/>ction, and my Soul to that God whoſe right it is: But this would not be granted the Petitioned for,</p>
+            <closer>
+               <dateline>from <hi>Newgate,</hi> 
+                  <date>
+                     <hi>July,</hi> 1683.</date>
+               </dateline>
+               <signed>J. Rouſe.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="12" facs="tcp:41750:8"/>
+            <head>A Letter, Written to his WIFE out of <hi>Newgate.</hi>
+            </head>
+            <p>WHen God brought us firſt together, we made full Ac<g ref="char:EOLhyphen"/>count of parting one time or other, but whoſe Lot ſhould be firſt, or the manner of our parting, and death, that was Locked up in Gods Cabinet, and now after Four<g ref="char:EOLhyphen"/>teen Years cohabitation we muſt part, it's true, were it at our own Houſe, and by an uſual ordinary common way, we ſhould be better pleaſed it may be, but this is the way ap<g ref="char:EOLhyphen"/>pointed, my Sins have been the procuring, though Evil Men the Inſtrumental Cauſe. This we know, it is appointed to all Men once to dye, and after that the Judgment, it is now my Lot to be called away, not by an ordinary, but extraor<g ref="char:EOLhyphen"/>dinary, Violent Shameful way of dying, but what of all that? May God being reconciled to me through Chriſt, the Hand-writing Concealed, Sins Pardoned, Nature Sancti<g ref="char:EOLhyphen"/>fyed, Soul Waſhed in the Blood of Sprinkling, Conſcience Excuſing not Accuſing, as to that Crime Charged on me, though I have received Sentence from the Judgment Seat of Man, I ſhall be acquitted at the Judgment Seat of God, hav<g ref="char:EOLhyphen"/>ing this Confidence, the manner of dying, accompanyed with ſuch outward Ignominy and Reproach, and ſo many Hun<g ref="char:EOLhyphen"/>dred Spectators, ſome to Triumph, others to pleaſe fancy, and a few out of true Love and Sympathy, I ſay in this Confidence, I am highly unconcern'd, it is but a few hours, and this Noiſe, Rout and Vanity will be over. What ſhall <hi>Indians</hi> that Dream of a place (after death) full of Carnal pleaſure, ſhall Papiſts upon Account of their Merits, and an Abſolution at Death, indure any kind of torture, and ſhall I
+<pb n="13" facs="tcp:41750:8"/>who neither believe the one, and who abhors the other, be afraid of that which is but a Bug-bear to an ingenuous noble Soul, who is born from above? and now through the Infinite Merits of his dear Jeſus, the alone Redeemer (beſides whom he owns no other) that very Soul is haſting to the place from whence it came; and for the Body, the outer Shell, believing a Reſurrection, however that be torn, ſhattered and devoured, every piece and particle ſhall be collected and brought together.</p>
+            <p>Now I bid thee adieu, till we meet where all Signs and Tears ſhall be wiped away; but before we part, I am under all Obliga<g ref="char:EOLhyphen"/>tions imaginable, to leave thee that I can to ſupport thee, ſince I have left thee in ſuch a condition, as (without a great mea<g ref="char:EOLhyphen"/>ſure of Strength and Grace) the thoughts thereof would quite ſink thy Spirit: But chear up from theſe Conſiderations, What though my Husband be dead and gone, yet I have a tender, lo<g ref="char:EOLhyphen"/>ving, good Father alive on Earth, and which is more, I have a greater and far better Father in Heaven. What though I am a Widow, and have many Fatherleſs Children to take care of and provide for; what then? have I not a God who hath ſtiled him<g ref="char:EOLhyphen"/>ſelf the Father of the Fatherleſs, and a Husband to the Widdow in his holy Habitation? And ſo go on, reckoning as to Habitation, manner of dwelling, the difference of fine or courſe Food and Rayment, and as to Friends and Enemies, Read, ſtuddy <hi>Jobs</hi> con<g ref="char:EOLhyphen"/>dition. When at any time you think of your Husband and man<g ref="char:EOLhyphen"/>ner of his death, endeavour to fetch Honey out of the Lyons Carkaſs; baniſh away all hard thoughts of God, who hath done us no wrong; though this Providence ſeems harſh and ſevere to us, yet it is Juſt and Righteous in our Lord, <hi>Even that God that chaſtiſeth the Heathen, ſhall not he correct?</hi> Pſalm 94. <hi>He that teacheth Man knowledge, ſhall not he know what is beſt for me?</hi> I know that thoughts, and many troubleſome and ſolicitous ones, will now and then ariſe, and work ſtrangely; Conſider it was thus with Holy <hi>David:</hi> Then in the multitude of thy thoughts within thee, let Gods Comforts delight thy Soul. <hi>Martha</hi> was cumbred about many things, I hope my <hi>Mary</hi> hath choſen that part that will never be taken from her; then let her acquieſce, in whatſoever revolutions ſhall paſs over her head in this World, <hi>&amp;c.</hi>
+            </p>
+            <div type="part">
+               <head>Here follows his Advice to his Children.</head>
+               <pb n="14" facs="tcp:41750:9"/>
+               <head>To my dear Children whom I leave under the protection, and to the care of that God who is the Father of the Fatherleſs; as my Daughters, <hi>Elizabeth</hi> and <hi>Mary,</hi> my two Sons now in being, <hi>John</hi> and <hi>Thomas,</hi> and that which my Wife Travels with, God give her a good time: Advice to them all in general.</head>
+               <opener>
+                  <salute>DEar Children,</salute>
+               </opener>
+               <p> ſince I am to leave you, and leave you in a vain, wicked, unkind World, and cannot leave you each an Eſtate or Portion to live upon in this world, I cannot, I dare not go off this Stage without letting you know that you had a Father (ſome of you do now remember it, but all of you can<g ref="char:EOLhyphen"/>not) and not barely a Father, but ſuch an one as did hope, a few days paſt, to have lived and ſeen you his Children to find Grace both in the eyes of God and Men; ſince its otherwiſe, and I am called away from you by an untimely and violent death, even ſuch a death as probably may be caſt in your Teeth hereafter by ſome kind of people. I leave you all I have (inſtead of Silver and Gold, Lands, and Houſes) that is, the Prayers, Bleſſing and Counſel of your Loving Dying Father, with a ſtrict charge, as ever you hope to enter into the Kingdom of Heaven, to keep it by you, follow it each of you in your own perſons, and convey it down to your poſterity, and the Great God Sanctify you, Bleſs, Protect and Keep you from all ſin and danger hear, and at laſt bring you to his Eternal Kingdom.</p>
+               <closer>
+                  <signed>Your Loving Father <hi>J. Rouſe.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <opener>
+                  <salute>My Dear Children,</salute>
+               </opener>
+               <p> my Prayers for you are, that as you are mine by natural Generation, That God would make you his by the Grace of Adoption, that when your Earthly Father ſhall leave you, the Father of Spirits may take care and provide for you; though you and every of you be Children of Wrath by Nature, you may never be Subjects of Wrath; though you live in the World, you may be kept from the evil of the World; and laſtly, when you leave this World, you may have a Houſe, not made with hands, Eternal in the Heavens.</p>
+               <p>
+                  <hi>By way of Counſel:</hi> Children, theſe things I write from a heart full of Bowels, eſpecially ſince I am not like to ſee you, or ſpeak one word to you more in this World.</p>
+               <p>
+                  <hi>In General:</hi> Fear God and keep his Commandments: Remem<g ref="char:EOLhyphen"/>ber each of you your Creator in your youth.</p>
+               <pb n="15" facs="tcp:41750:9"/>
+               <p>
+                  <hi>Particularly,</hi> Above and before all other things mind the Duties of Religion God-ward, as Prayer for what you ſhall want, praiſe for what you have or ſhall receive; Read the Holy Scriptures ſome part every day, eſpecially the <hi>Pſalms, Proverbs,</hi> and the Epiſtles of St. <hi>Paul,</hi> &amp;c. and therein that which concerns you and your practice. Alſo other good Books, particularly the leſſer <hi>Catechiſme,</hi> and Biſhop <hi>
+                     <g ref="char:V">Ʋ</g>ſhers Grounds of Religion.</hi> Neglect no Ordinance of God publick or private: In Reading read a little at a time, and read diſtinctly; learn the 119 <hi>Pſalm</hi> by heart.</p>
+               <p n="2">2. Be obedient and dutyful to your dear Mother, and obey all her lawful Commands chearfully, <hi>&amp;c.</hi> Read <hi>Col.</hi> 3.20.</p>
+               <p n="3">3. When you have Maſters and Miſtreſſes, mind <hi>Col.</hi> 3.22.</p>
+               <p n="4">4. Submit to, and pray for Kings and all you live under, that under them you may live peaceable, <hi>&amp;c.</hi>
+               </p>
+               <p n="5">5. Be kind and courteous to all perſons.</p>
+               <p n="6">6. Avoid all evil wicked Company; among all Company be Wiſe as Serpents, Innocent as Doves; when others Curſe, do you Bleſs; pray for any that ſhall deſpitefully uſe you. Read <hi>Matt.</hi> 5.</p>
+               <p n="7">7. Be kindly affectionated one towards another, do your ut<g ref="char:EOLhyphen"/>moſt to build up one another for Heaven; and next, aſſiſt each other with what God ſhall give you of this World, one may be Rich another Poor.</p>
+               <p n="8">8. Remember the Poor, eſpecially they of the Houſhold of Faith; if you have nothing to give them, at leaſt Pity or Pray for them, that you can beſtow at all times. What you do, do with a good Will and in Faith; <hi>He that gives to the Poor, Lendeth to the Lord.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Now to Each of you a part.</head>
+               <p>And firſt to <hi>Betty,</hi> thou art grown up, its high time for thee to think of thy Duty towards God firſt, next to thy tender Mother; Come away from looſe Wanton Girls, ſtuddy to ſerve and pleaſe thy Mother, and eaſe her as much as may be in helping and look<g ref="char:EOLhyphen"/>ing after the Younger; Give not thy Mother cauſe to complain of thy undutifulneſs and ſtubborneſs; God make thee ſuch another <hi>Elizabeth,</hi> who with her Yoke-fellow walked in all the Command<g ref="char:EOLhyphen"/>ments blameleſs.</p>
+               <p>
+                  <hi>Mary,</hi> What I ſay to <hi>Betty</hi> I ſay to thee, and God enable thee to chuſe the better part.</p>
+               <p>
+                  <hi>John,</hi> Thy Name fignifies Grace; God furniſh thee with all manner of Grace from the Fountain of Grace, <hi>John</hi> 1.12. Re<g ref="char:EOLhyphen"/>member as thou art the Elder, and God ſpare thy Life, as God ſhall enable thee, I charge thee to mind thy Mother and Siſters.</p>
+               <pb n="16" facs="tcp:41750:10"/>
+               <p>
+                  <hi>Thomas,</hi> be not thou faithleſs, but believing; what advice I give in general to all, and in particular to thy Brother <hi>John,</hi> I give to thee.</p>
+               <p>To that unborn at preſent, whether <hi>Benony,</hi> if a Boy, or <hi>Ma<g ref="char:EOLhyphen"/>ra,</hi> if a Maid, though thou never ſaw'ſt thy Father, I lay the ſame Obligation upon thee as upon the reſt in thy Capacity: and ſo the God of Heaven and Earth keep and Bleſs each and all of you in Souls and Bodies, and the Grace of God that appears, teach you all, that denying Ungodlineſs and Worldly Luſts, you may live Soberly towards your ſelves, Righteouſly towards Men, and Godlily towards God, in this preſent evil World.</p>
+               <closer>
+                  <dateline>Dated from the Priſon of <hi>Newgate,</hi> where I am under the Sen<g ref="char:EOLhyphen"/>tence of Death from Man, upon the Account of High-Treaſon Sworn againſt me, though (Bleſſed be God) under no Sentence of my Conſcience within, for deſigning or compaſſing the Death of his preſent Majeſty, (whom God preſerve) or Levying Arms againſt his Royal perſon or Government; yet as in duty bound, do pray for my Enemies, that God will not lay my Blood to their Charge: And ſo I conclude,</dateline>
+                  <signed>Your Tender, Loving Father, a few hours before his Execution,
+<hi>J. RO<g ref="char:V">Ʋ</g>SE.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
